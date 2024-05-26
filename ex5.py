@@ -54,5 +54,3 @@ elif(input == "gen"):
     gen = id_gen(id_num)
     for id in range(10):
         print(next(gen))
-# print(check_id_valid(123456780))
-# print(check_id_valid(123456782))
